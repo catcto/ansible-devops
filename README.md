@@ -24,7 +24,7 @@ services:
 
 2. Start the container:
 ```shell
-$ docker-compose stop && docker-compose rm -f && docker-compose stop up -d
+$ docker-compose up -d
 ```
 
 3. Enter the container:
